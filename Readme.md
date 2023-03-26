@@ -15,7 +15,7 @@ Los Algoritmo serán pasados a **python**, para ser usados en la linea de comand
 1. Clona este repositorio en tu ordenador:
 
    ```powershell
-   git clone https://github.com/BillyClassTime/StartWebWithPythoon.git
+   git clone https://github.com/BillyClassTime/BillyClassTime-StartWithPythonFromCLAndWeb.git
    ```
 
 2. Crea y activa un entorno virtual:
